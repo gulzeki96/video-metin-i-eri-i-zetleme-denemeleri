@@ -11,5 +11,5 @@ Python ile video metninin özetleme çalışmalarını geliştirilerek yapılaca
     - (?) TF-IDF degerleri, hesaplanmistir.
     - (?) Sentence score hesaplanmistir.
   - Analitik yontemlerde sonuclar beklendigi gibi gelmediginden vers_1 icin daha fazla calisma
-  yapilmamistir, bir sonraki calismada analitik yontemlerden once farkli yontemlerle metnin
+  (ozet) yapilmamistir, bir sonraki calismada analitik yontemlerden once farkli yontemlerle metnin
   analizinin yapilmasi planlaniyor.
